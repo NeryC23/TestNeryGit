@@ -15,7 +15,12 @@ mipila = pila()
 mipila.push("primer valor")
 mipila.push("segundo valor")
 mipila.push("tercer valor")
+mipila.push("cuarto valor")
 
 print(mipila.pop())
 print(mipila.pop())
 print(mipila.pop())
+print(mipila.pop())
+
+#Este es un cambio de vscode a github
+
